@@ -19,6 +19,7 @@ public class ExampleThursday {
         System.out.println("Test");
         System.out.println("second testing");
          System.out.println("learninig");
+        System.out.println("fetch");
     }
     
 }
